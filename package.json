@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/*.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,10 @@
     "sugarcrm",
     ""
   ],
+  "devDependencies": {
+   "mocha": "",
+   "should": ""
+   },
   "author": "Jean-Charles Nadé",
   "license": "BSD",
   "readmeFilename": "README.md",
