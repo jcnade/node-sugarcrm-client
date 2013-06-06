@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 
-
 	var sugar = require('../lib/main');
 
 
@@ -36,7 +35,6 @@
 	sugar.login(function(sessionID){
 		
 		if (sessionID != 'undefined') {
-
 
 				//
 				// Create a new Account
