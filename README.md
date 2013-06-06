@@ -15,7 +15,7 @@ Provide URL, login and password:
      sugar.init(
         {
             apiURL:  "http://*********/sugarcrm/service/v4_1/rest.php"
-           ,login:   "*******",
+           ,login:   "*******"
            ,passwd:  "*******"
         }
       );

@@ -1,6 +1,6 @@
 {
   "name": "node-sugarcrm-client",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "SugarCRM REST API Client in node.js",
   "main": "index.js",
   "directories": {
