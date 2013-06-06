@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha test/*.js"
   },
- "bin": { "sleep-sort": "./bin/sleep-sort" },
+ "bin": { "sugar": "./bin/sugar" },
   "repository": {
     "type": "git",
     "url": "https://github.com/jcnade/node-sugarcrm-client.git"
