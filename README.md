@@ -3,7 +3,7 @@ node-sugarcrm-client
 
 SugarCRM REST API Client in node.js 
 
-"!https://travis-ci.org/jcnade/node-sugarcrm-client.png!"https://travis-ci.org/jcnade/node-sugarcrm-client
+[![Build Status](https://travis-ci.org/jcnade/node-sugarcrm-client.png)](https://travis-ci.org/jcnade/node-sugarcrm-client)
 
 
 * Tested on SugarCRM Community Edition 6.5.* on RESP API v4.1
